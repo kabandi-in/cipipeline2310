@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Sample shell Script...."
+echo "Sample Shell Script.."
 ps ax
